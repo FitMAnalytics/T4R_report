@@ -1,0 +1,4 @@
+model,n_samples,n_failed,recall@20,recall@40,ndcg@20,ndcg@40
+0317_hierarchical_max_len_20,2000,0,0.2635,0.279,0.1372091288399767,0.14041464652485486
+03181149_hierarchical_max_len_10, 2000, 0,0.2425,0.3450, 0.1121, 0.1329
+0318_hierarchical_max_len_20,2000,0,0.2430,0.3365,0.1257,0.1255
